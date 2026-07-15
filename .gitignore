@@ -1,13 +1,7 @@
 venv/
-
 __pycache__/
-
-*.pyc
-
-.idea/
-
+*.py[cod]
 .vscode/
-
+.idea/
 .DS_Store
-
-*.log
+.env
